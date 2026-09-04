@@ -1,7 +1,6 @@
 # Network-flow anomaly detection: reproducibility code
 
-This directory is a cleaned, public-release copy of the code used for the
-ESWA manuscript.
+This directory is a public-release copy of the code used for the manuscript.
 
 ## Layout
 
@@ -25,9 +24,6 @@ The dataset slugs are fixed as follows:
 | --- | --- |
 | CIC-UNSW-NB15 | `cic_unsw_nb15` |
 | BCCC-CSE-CIC-IDS2018 | `bccc_cse_cic_ids2018` |
-
-The abbreviated slug `cic_ids2018` is intentionally not used, because it
-omits the BCCC-CSE dataset provider/name prefix.
 
 Each retained entry point has a manuscript role; none is an alternative copy
 of the same reported run:
